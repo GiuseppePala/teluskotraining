@@ -1,5 +1,5 @@
 # Bubble sort
-# Ordinamento degli elementi di una lista, perfetto per valori sia nimerici che alfanumerici
+# Ordinamento degli elementi di una lista, perfetto per valori sia numerici che alfanumerici
 def sort(lista):
     for cicli in range(len(lista)-1, 0, -1):
         for riga in range(cicli):
